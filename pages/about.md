@@ -11,7 +11,7 @@ Gleb Kalinin is a psychologist, certified coach, certified mindfulness instructo
 
 - - -
 
-My slogan: "Human in focus. Everything I do now is about people and for people.
+My slogan is "Human in focus". Everything I do now is about people and for people, it's people-centric. My life is a research in finding happiness in a everevolving world.
 
 - - -
 

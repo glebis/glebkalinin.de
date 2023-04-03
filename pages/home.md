@@ -7,6 +7,10 @@ eleventyNavigation:
   key: Start
   order: 0
 ---
+
+![](/static/img/gk-bg.jpg)
+
+
 # Welcome
 
 不闻不若闻之，
