@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 
 
-<img src="/static/img/202301-glebkalinin.jpg" alt="Gleb Kalinin" title="Gleb Kalinin, autoportrait">
+![Gleb Kalinin](/static/img/202301-glebkalinin.jpg)
 
 Gleb Kalinin is a psychologist, certified coach, certified mindfulness instructor and an artist. Gleb lives in Berlin and works with clients around the world. 
 
