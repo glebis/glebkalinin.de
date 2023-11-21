@@ -82,10 +82,11 @@ Before beginning work, I sign an Informed Voluntary Consent with my clients, a d
 
 ## Personal Practice
 
-I have been in regular personal therapy since 2016. I participate in therapy groups, skills trainings, participate in supervision group. I practice mindfulness meditation.
+To me, personal practice is essential. It is a part of my committed effort to help others. I have been in regular personal therapy since 2016. I participate in therapy groups, skills trainings, participate in a supervision group. I practice mindfulness meditation regularly.
 
 
 ## Contact me
 
-Telegram: [@glebkalinin](https://t.me/glebkalinin)
-Email: <a href="mailto:glebis@gmail.com" itemprop="email">glebis@gmail.com</a>
+- Telegram: [@glebkalinin](https://t.me/glebkalinin)
+- Email: [glebis@gmail.com](mailto:glebis@gmail.com)
+- Whatsapp: [4917685278763](https://wa.me/4917685278763)
