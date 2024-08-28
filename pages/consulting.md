@@ -17,6 +17,8 @@ As a creative consultant, I offer a range of services to help individuals and bu
 
    I use frameworks like Double Diamond, Business Model Canvas, Design Thinking, Design Your Life, Values Compass and other tools, as well as mindfunless and embodiment inspired practices.
 
+   My distributed team can help you quickly build AI prototypes of products and services for quick validation.
+
 2. **Creative Workshop Facilitation**
    Design and lead engaging workshops that foster creativity, encourage out-of-the-box thinking, and help teams generate fresh ideas and approaches. These tailored sessions are perfect for brainstorming, problem-solving, and cultivating a culture of innovation within your organization.
 
