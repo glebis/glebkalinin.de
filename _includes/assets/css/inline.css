@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
+	--primary: #4B0082; /* Dark purple */
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -35,6 +35,10 @@ code {
 a[href],
 a[href]:visited {
 	color: var(--primary);
+}
+
+a[href]:hover {
+	color: #6A0DAD; /* Slightly lighter purple for hover state */
 }
 
 a[href]:not(:hover) {
