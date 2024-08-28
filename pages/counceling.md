@@ -1,12 +1,9 @@
 ---
-title: Gleb Kalinin — Psychological Councelling
+title: Gleb Kalinin — Psychological Counselling
 metaDescription: Gleb Kalinin, coach and psychologist based in Berlin
 date: 2017-01-01T00:00:00.000Z
-permalink: /about/counceling/
+permalink: /about/counseling/
 html: true
-eleventyNavigation:
-  key: Councelling 
-  order: 1
 ---
 
 
