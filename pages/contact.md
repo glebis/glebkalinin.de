@@ -11,9 +11,10 @@ eleventyNavigation:
 ---
 
 > “The idea is to remain in a state of constant departure, while always arriving. It saves on introductions and goodbyes.” 
-> — *R. Linklater*
+> — *R. Linklater*, Waking Life
 
-- Whatsapp 4917685278763
+- Whatsapp: [4917685278763](https://wa.me/4917685278763)
 - Telegram [@glebkalinin](https://t.me/glebkalinin)
+- Email: [glebis@gmail.com](mailto:glebis@gmail.com)
 
 or fill in form below
