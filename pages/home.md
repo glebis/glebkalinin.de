@@ -11,12 +11,6 @@ eleventyNavigation:
 ![](/static/img/gk-bg.jpg)
 
 
-# Welcome
-
-不闻不若闻之，
-闻之不若见之，
-见之不若知之，
-知之不若行之；
-学至于行之而止矣
+# Gleb Kalinin, creative consultant
 
 "It's better to hear than not to hear, better to see than just to hear, better to know than just to see, and better to act than merely to know; learning should culminate in action." — Confucius
