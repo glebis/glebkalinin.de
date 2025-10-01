@@ -1,13 +1,13 @@
 ---
 title: Impressum
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
-date: 2017-01-01T00:00:00.000Z
+date: 2025-10-01T00:00:00.000Z
 permalink: /impressum/index.html
 ---
 
 Gleb Kalinin
-Rodenbergstr 10
-10439 Berlin
+Amsterdamer Str. 21, 
+13347 Berlin
 Deutschland
 
 USt-IdNr: DE369692682
